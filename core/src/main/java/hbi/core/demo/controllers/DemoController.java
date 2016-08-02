@@ -51,5 +51,6 @@ public class DemoController  extends BaseController{
         demoService.batchDelete(demos);
         return new ResponseData();
     }
-    //test egit1
+    //test egit
+    //test n122
 }
